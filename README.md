@@ -13,6 +13,6 @@
 ### Tool for Design
 ![design](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![ySnowz GitHub stats](https://github-readme-stats.vercel.app/api?username=ySnowz&show_icons=true&theme=dracula)
+![ySnowz GitHub stats](https://github-readme-stats.vercel.app/api?username=ySnowz&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ySnowz)](https://github.com/anuraghazra/github-readme-stats)
