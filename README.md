@@ -1,4 +1,5 @@
 ### Greetings! I'm Luan Mendonça 👋🏼
+### U're Welcome!
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-oliveira-59260a245/)
 
 ### Language and frameworks
@@ -12,6 +13,6 @@
 ### Tool for Design
 ![design](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![status](https://github-readme-stats.vercel.app/api?username=ySnowz&show_icons=true&theme=dracula)
+![ySnowz GitHub stats](https://github-readme-stats.vercel.app/api?username=ySnowz&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ySnowz&layout=compact)
