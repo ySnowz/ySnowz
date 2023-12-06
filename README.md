@@ -21,6 +21,6 @@
 ![design](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <hr/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ySnowz&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ySnowz&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ySnowz)](https://github.com/anuraghazra/github-readme-stats)
