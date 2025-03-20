@@ -21,7 +21,6 @@
 
 ### Tool for Design
 ![design](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-<img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"/>
 <hr/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ySnowz&show_icons=true&theme=transparent)
